@@ -1,2 +1,2 @@
 # RE_DL
-Re-learning Machine Learning (personal winter break project)
+Re-learning Deep Learning (personal winter break project)
